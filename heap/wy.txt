@@ -23,7 +23,7 @@ Tree visualised:
 4, 3, 1, 5
 2
 path to 5 ('l' for left and 'r' for right):
-  r -> r -> found 5 at index 6 and position 0x2612dc0
+  r -> r -> found 5 at index 6 and position 0x2592dd0
 
 Tree visualised:
 
