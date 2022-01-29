@@ -1,0 +1,27 @@
+
+Tree visualised:
+12
+10, 6
+7, 9, 1, 5
+2, 4, 3
+
+LVR: 2 7 4 10 3 9 12 1 6 5 
+VLR: 12 10 7 2 4 9 3 6 1 5 
+LRV: 2 4 7 3 9 10 1 5 6 12 
+successfully deleted node from index 1
+
+Tree visualised:
+12
+9, 6
+7, 3, 1, 5
+2, 4
+successfully deleted node storing value 9
+
+Tree visualised:
+12
+7, 6
+4, 3, 1, 5
+2
+
+Tree visualised:
+
